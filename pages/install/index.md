@@ -180,7 +180,7 @@ For more details check the package information [here](https://spack.readthedocs.
 
 ## {fab}`linux` {fab}`ubuntu` Ubuntu universe repository
 
-[![Ubuntu deb package](https://packages.ubuntu.com/resolute/utils/fortran-fpm)
+[Ubuntu deb package](https://packages.ubuntu.com/resolute/utils/fortran-fpm)
 
 As of Ubuntu 2026.04 (LTS) , fpm is  now available in the Universe repository as `fortran-fpm`.
 
