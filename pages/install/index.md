@@ -194,7 +194,7 @@ apt install fortran-fpm
 
 ## {fab}`linux` {fab}`debian` Debian sid/forky repositories
 
-[![Debian deb package](https://packages.debian.org/unstable/fortran-fpm)
+[Debian deb package](https://packages.debian.org/unstable/fortran-fpm)
 
 Fpm is now in the Debian unstable and testing repositories (sid and the upcoming forky)  as `fortran-fpm`.
 
