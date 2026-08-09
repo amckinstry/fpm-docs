@@ -189,7 +189,7 @@ For more details check the package information [here](https://packages.ubuntu.co
 Fpm can be installed with:
 
 ```{code-block} sh
-apt install fortran-fpm
+sudo apt install fortran-fpm
 ```
 
 ## {fab}`linux` {fab}`debian` Debian sid/forky repositories
